@@ -1,4 +1,4 @@
-from classes import KeyboardListener, MouseController
+from lib import KeyboardListener, MouseController
 import ctypes
 import sys
 import time
